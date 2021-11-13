@@ -1,7 +1,7 @@
 # SkyAvenue
 
 **Developed in 2020** <br />
-for Plastico Pvt Ltd <br /><br />
+for Sky Avenue Pvt Ltd <br /><br />
 
 *This React-Native app was developed by me for my society to maintain payment records, issuing noticies, society vehicle information etc.*<br />
 
